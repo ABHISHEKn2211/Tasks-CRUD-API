@@ -1,0 +1,5 @@
+1. Download the New Folder .rar file<br>
+2. Extract it in your system<br>
+3. Go in the New folder then the backend folder and open it with VSCode<br>
+4. Go to the terminal and write npm start<br>
+5. Now start hitting apis through postman<br>
